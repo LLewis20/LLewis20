@@ -9,7 +9,7 @@ I have been coding for around 6 years. My coding journey began in my junior year
 
 * 🌍 Based in Kansas City, MO
 * 🖥️ Check out my portfolio on [LinkedIn](http://www.linkedin.com/in/logan-lewis20/)
-* 🧠 Learning Web Design, Web Apps/Services, and Machine Learning Algorithms
+* 🧠 Learning GUI design with python frameworks
 
 ### Skills
 
@@ -29,21 +29,21 @@ I have been coding for around 6 years. My coding journey began in my junior year
 
 ### Projects
 
-**Computer Vision Developer | Autonomous Bot Development for Counter-Strike: Global Offensive**
+[**Computer Vision Developer | Autonomous Bot Development for Counter-Strike: Global Offensive**](https://github.com/LLewis20/Counter-Strike-Computer-Vision)
 - *Research into how computer vision can work with machine learning models*
 - **Technologies:** Python, YOLOv8, OpenCV, TensorFlow
 - Developed an autonomous gaming bot for Counter-Strike: Global Offensive using Python and the YOLOv8 engine, focusing on real-time visual data interpretation without accessing internal game data.
 - Implemented computer vision techniques to enable the bot to independently identify opponents and navigate complex game environments, demonstrating advanced applications of AI in real-time strategy settings.
 - Utilized OpenCV for image processing enhancements and integrated machine learning models to refine decision-making processes, enhancing the bot’s interaction within the game.
 
-**Lead Developer, Project Lead | Chemistry Learning Environment**
+[**Lead Developer, Project Lead | Chemistry Learning Environment**](https://github.com/LLewis20/Chemistry-Tower-Defense)
 - *Application to create equal opportunities in education through interactive games*
 - **Technologies:** GDScript, Blender, Firebase, Firestore
 - Led the development of a virtual learning environment using the Godot game engine, focusing on creating accessible educational games that teach key chemistry concepts such as Acids and Bases, REDOX reactions, and precipitation reactions.
 - Designed an interactive platform that allows educators to integrate these games into their curriculum seamlessly, enabling them to monitor and track students' progress.
 - Implemented Firebase for user authentication and real-time communication between the games and educators, creating an interactive feedback system to support and enhance student learning.
 
-**Machine Learning Developer | Fraud Detection in Banking Transactions**
+[**Machine Learning Developer | Fraud Detection in Banking Transactions**](https://github.com/LLewis20/Machine-Learning-Fraud-Detection)
 - *Machine Learning model for detecting fraudulent transactions in simulated bank data*
 - **Technologies:** Python, Scikit-learn, Pandas, Matplotlib
 - Developed a machine learning model to detect fraudulent transactions as part of a class project, simulating real-world bank data with only 0.58% fraudulent transactions.
